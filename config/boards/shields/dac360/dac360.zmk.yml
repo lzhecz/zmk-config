@@ -1,0 +1,11 @@
+file_format: "1"
+id: dac360
+name: Dac360 7x6
+type: shield
+url: https://github.com/rlowies/zmk-config-dactyl-360
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - dac360left
+  - dac360right

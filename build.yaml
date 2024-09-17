@@ -19,6 +19,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: lily58_left
+    shield: dac360left
   - board: nice_nano_v2
-    shield: lily58_right
+    shield: dac360right
+  - board: nice_nano_v2
+    shield: settings_reset
